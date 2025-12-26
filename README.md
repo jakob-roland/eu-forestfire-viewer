@@ -1,1 +1,3 @@
-# eu-forestfire-viewer
+# EU forestfire viewer
+
+
